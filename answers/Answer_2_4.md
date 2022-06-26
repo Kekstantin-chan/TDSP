@@ -35,7 +35,3 @@ $+BAABA, +BBAAA, AABAB, +ABAAB, +BAAAB$
 Искомая вероятность:
 
 $2\cdot \frac{(a+b-1)!}{a!(b-1)!} : \frac{(a+b)!}{a!b!}=\frac{2(a+b-1)!a!b!}{a!(b-1)!(a+b)!}=\frac{2 \cdot b}{a+b}$
-<<<<<<< HEAD
-=======
-
->>>>>>> 80e058bb58d59de1e493965add485706420406db
