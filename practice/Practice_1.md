@@ -39,7 +39,7 @@ a-1
 \begin{pmatrix}
 a+b-1\\
 a
-\end{pmatrix} = 
+\end{pmatrix} =\\= 
 \frac{(a+b-1)!}{(a-1)!b!}-\frac{(a+b-1)!}{a!(b-1)!}=\frac{(a+b-1)!}{(a-1)!b!}\left(1-\frac{b}{a}\right)=\\=\frac{(a+b-1)!(a-b)}{a!b!}
 $$
 Количество вообще всех путей из начала координат в точку $B$ равно
@@ -90,7 +90,7 @@ x_2-x_1\\
 \begin{pmatrix}
 x_2-x_1\\
 \frac{x_2-x_1+y_2-(2k-y_1)}{2}
-\end{pmatrix}=\begin{pmatrix}
+\end{pmatrix}=\\=\begin{pmatrix}
 9-2\\
 \frac{9-2+2-(2*3-1)}{2}
 \end{pmatrix}=
